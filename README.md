@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Linkedin]: www.linkedin.com/in/konickik
+[Linkedin]: https://linkedin.com/in/konickik
 [email]: mailto:konicki.konrad@onet.pl
