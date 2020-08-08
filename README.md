@@ -5,7 +5,7 @@
 ### Contact with me:
 [<img margin='50px' alt='Linkedin' width='44px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png' />][Linkedin]
 <br/>
-<img margin='5px' alt='email' width='44px' src='https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png' /> : [email]
+<img margin='5px' alt='email' width='44px' src='https://cdn.onlinewebfonts.com/svg/img_62174.png' /> : konicki.konrad@onet.pl
 
 
 <!--
@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 -->
 
 [Linkedin]: www.linkedin.com/in/konickik
-[email]: konicki.konrad@onet.pl
