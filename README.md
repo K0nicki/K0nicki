@@ -2,7 +2,7 @@
 
 ## I am a AGH University of Science and Technology student
 - See my [LinkedIn][Linkedin]!
-</br>
+
 [<img alt='Linkedin' width='22px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png' />][Linkedin]
 
 <!--
