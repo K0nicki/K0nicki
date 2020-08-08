@@ -3,8 +3,8 @@
 ## I'm an AGH University of Science and Technology student
 
 ### Contact with me:
-[<img alt='Linkedin' width='44px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png' />][Linkedin]
-[<img alt='email' width='55px' src='https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png' />][email]
+[<img margin='5px' alt='Linkedin' width='44px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png' />][Linkedin]
+[<img margin='5px' alt='email' width='44px' src='https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png' />][email]
 
 <!--
 **K0nicki/K0nicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
