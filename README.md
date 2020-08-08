@@ -3,8 +3,8 @@
 ## I'm an AGH University of Science and Technology student
 
 ### Contact with me:
-[<img style='margin:5px;' alt='Linkedin' width='44px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png' />][Linkedin]
-[<img style='margin:5px;' alt='email' width='44px' src='https://cdn.onlinewebfonts.com/svg/img_62174.png' />][email]
+[<img style='margin:15px;' alt='Linkedin' width='44px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png' />][Linkedin]
+[<img style='margin:15px;' alt='email' width='44px' src='https://cdn.onlinewebfonts.com/svg/img_62174.png' />][email]
 
 
 <!--
