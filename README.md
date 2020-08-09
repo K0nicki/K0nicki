@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm an AGH University of Science and Technology student 👨‍🎓 🤔
+## I'm an Information and Telecommunications Technology student 👨‍🎓 🤔
 
 [<img style='margin:10px;' alt='website' width='46px' src='http://student.agh.edu.pl/~konickik/resources/websiteIcon.png' />][website]
 
