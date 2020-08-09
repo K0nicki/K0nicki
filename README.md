@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-## I'm an AGH University of Science and Technology student
+## I'm an AGH University of Science and Technology student👨‍🎓
 
 ### Contact with me:
-[<img style='padding-right:10px;' alt='Linkedin' width='33px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png' />][Linkedin]
-[<img style='padding-right:10px;' alt='email' width='46px' src='https://cdn.onlinewebfonts.com/svg/img_62174.png' />][email]
+[<img style='margin:10px;' alt='Linkedin' width='33px' src='"http://student.agh.edu.pl/~konickik/resources/Linkedin.svg' />][Linkedin]
+[<img style='margin:10px;' alt='email' width='46px' src='http://student.agh.edu.pl/~konickik/resources/mail.png' />][email]
+[<img style='margin:10px;' alt='website' width='56px' src='http://student.agh.edu.pl/~konickik/resources/websiteIcon.png' />][website]
 
 
 <!--
@@ -24,3 +25,4 @@ Here are some ideas to get you started:
 
 [Linkedin]: https://linkedin.com/in/konickik
 [email]: mailto:konicki.konrad@onet.pl
+[website]: http://student.agh.edu.pl/~konickik/
