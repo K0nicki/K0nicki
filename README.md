@@ -1,5 +1,30 @@
-[<img style='margin:10px;' alt='img' width='550px' src='https://previews.123rf.com/images/meineurlaubswelt/meineurlaubswelt1711/meineurlaubswelt171100071/89532718-happy-new-year-2021.jpg' />](https://github.com/K0nicki/Scripts/blob/master/new_Year_wishes.sh)
+### Hi there 👋
 
-# Happy New Year!
-#### I wrote a script with wishes for you ❤
-##### Just click the image!
+## I'm an Information and Telecommunications Technology student 🤔
+### Website:
+[<img style='margin:10px;' alt='website' width='46px' src='http://student.agh.edu.pl/~konickik/resources/websiteIcon.png' />][website]
+
+### Contact with me:
+[<img style='margin:10px;' alt='Linkedin' width='33px' src='http://student.agh.edu.pl/~konickik/resources/linkedin.png' />][Linkedin]
+
+[<img style='margin:10px;' alt='email' width='46px' src='http://student.agh.edu.pl/~konickik/resources/mail.png' />][email]
+
+
+<!--
+**K0nicki/K0nicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+[Linkedin]: https://linkedin.com/in/konickik
+[email]: mailto:konicki.konrad@onet.pl
+[website]: http://student.agh.edu.pl/~konickik/
