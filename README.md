@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm an Information and Telecommunications Technology student 🤔
+## I'm an ICT and Cybersec student 🤔
 ### Website:
 [<img style='margin:10px;' alt='website' width='46px' src='http://student.agh.edu.pl/~konickik/resources/websiteIcon.png' />][website]
 
