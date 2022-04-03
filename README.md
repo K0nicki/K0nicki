@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Linkedin]: https://linkedin.com/in/konickik
+[Linkedin]: https://linkedin.com/in/k0nicki
 [email]: mailto:konicki.konrad@onet.pl
 [website]: http://student.agh.edu.pl/~konickik/
