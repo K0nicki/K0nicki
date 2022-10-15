@@ -2,9 +2,8 @@
 
 ## I'm an ICT and Cybersec student 🤔
 ### Contact with me:
-[<img style='margin:10px;' alt='Linkedin' width='33px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' />][Linkedin]
-
-[<img style='margin:10px;' alt='email' width='46px' src='https://cdn-icons-png.flaticon.com/512/561/561127.png' />][email]
+[<img style='margin:30px;' alt='email' width='46px' margin-top='85px' src='https://cdn-icons-png.flaticon.com/512/561/561127.png' />][email] \
+[<img style='margin:30px;' alt='Linkedin' width='46px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' />][Linkedin]
 
 
 <!--
