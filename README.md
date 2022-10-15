@@ -1,13 +1,10 @@
 ### Hi there 👋
 
 ## I'm an ICT and Cybersec student 🤔
-### Website:
-[<img style='margin:10px;' alt='website' width='46px' src='http://student.agh.edu.pl/~konickik/resources/websiteIcon.png' />][website]
-
 ### Contact with me:
-[<img style='margin:10px;' alt='Linkedin' width='33px' src='http://student.agh.edu.pl/~konickik/resources/linkedin.png' />][Linkedin]
+[<img style='margin:10px;' alt='Linkedin' width='33px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' />][Linkedin]
 
-[<img style='margin:10px;' alt='email' width='46px' src='http://student.agh.edu.pl/~konickik/resources/mail.png' />][email]
+[<img style='margin:10px;' alt='email' width='46px' src='https://cdn-icons-png.flaticon.com/512/561/561127.png' />][email]
 
 
 <!--
