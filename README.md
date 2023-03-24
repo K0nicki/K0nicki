@@ -2,8 +2,8 @@
 
 ## I'm an ICT and Cybersec student 🤔
 ### Contact with me:
-[<img style='margin:30px;' alt='email' width='46px' margin-top='85px' src='https://cdn-icons-png.flaticon.com/512/561/561127.png' />][email] \
-[<img style='margin:30px;' alt='Linkedin' width='46px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' />][Linkedin]
+[<img style='margin:30px;' alt='Linkedin' width='46px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' />][Linkedin] \
+[<img style='margin:30px;' alt='email' width='46px' margin-top='85px' src='https://cdn-icons-png.flaticon.com/512/561/561127.png' />][email]
 
 
 <!--
@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 -->
 
 [Linkedin]: https://linkedin.com/in/k0nicki
-[email]: mailto:konicki.konrad@onet.pl
-[website]: http://student.agh.edu.pl/~konickik/
+[email]: mailto:konrad.konicki@outlook.com
